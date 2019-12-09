@@ -5,3 +5,4 @@ build:
 	go build -v -o bin/day2 ./src/day2
 	go build -v -o bin/day3 ./src/day3
 	go build -v -o bin/day4 ./src/day4
+	go build -v -o bin/day5 ./src/day5
